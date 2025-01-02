@@ -1,0 +1,4 @@
+This is a repo containing the single include files from
+https://github.com/nlohmann/json so that I can include them as a submodule
+rather than having the files exist in my project tree. Currently using
+release 3.11.3.
